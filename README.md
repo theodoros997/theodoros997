@@ -35,14 +35,7 @@ Web system for managing customer insurance packages and contracts, including dyn
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,php,html,css,js,mysql,linux,git,bootstrap,github)
-
----
-
-## 📈 GitHub Stats
-
-![Theodoros' GitHub stats](https://github-readme-stats.vercel.app/api?username=tthheodoross997&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tthheodoross997&layout=compact&theme=tokyonight&hide_border=true)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,php,html,css,mysql,linux,git,bootstrap,github)
 
 ---
 
