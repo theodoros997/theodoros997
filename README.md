@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Theodoros
 
 🧑‍💻 **Computer Engineering @ Cyprus University of Technology**  
-🔐 **Junior Penetration Tester (Intern)** | Cybersecurity Tools | CTF Enthusiast
+🔐 **Junior Penetration Tester (Part Time)** | Cybersecurity Tools | CTF Enthusiast
 
 ---
 
