@@ -22,7 +22,7 @@ I'm a passionate cybersecurity student and intern working on browser forensics, 
 
 ## 📂 Featured Projects
 
-### 🔐 [Chrome Decryptor](https://github.com/tthheodoross997/chrome-decryptor)
+### 🔐 [Chrome Decryptor](https://github.com/theodoros997/Chrome-Decryptor-Tool-128)
 Offline Chrome cookie decryption tool. Accepts Chrome's AES master key and decrypts stored cookies. Useful for forensic analysis and session hijacking investigations.
 
 ### 📋 Dioristeon (Private)
